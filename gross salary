@@ -1,0 +1,10 @@
+x=int(input("enter the basic salery"))
+if x<=10000:
+    c=10*x/100
+    print(c)
+elif x<=20000:
+    b=20*x/100
+    print(b)
+elif x>20000:
+    a=30*x/100
+    print(a)
