@@ -1,0 +1,4 @@
+
+d={'name':'john','fav_game':'cricket','age':20}
+d['fav_player']='AB De'                     #adding new key to dict
+print(d)
